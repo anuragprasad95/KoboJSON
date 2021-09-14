@@ -1,5 +1,5 @@
 # KoboJSON
-This reporsitory is created to pull kobo form data using their api to google spreadsheet. It uses json data format while pulling te data while using kobo api.
+This repository is created to pull kobo form data using their api to google spreadsheet. It uses json data format while pulling te data while using kobo api.
 
 It will be easy to handle the data collected at koboform. As we know spreadsheet has wide range of flexibility on caring and sharing options between multiple users to share data and analyse with each other.
 
